@@ -1,7 +1,3 @@
-# ejercicio-alumno
+# Huber
 
-## Integrantes
-
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+[Enunciado](https://docs.google.com/document/d/1d2PQgjAgVIfT1iVFqUvqCWWSEfsArkFTtPt_wqWSuwM/edit?usp=sharing)
