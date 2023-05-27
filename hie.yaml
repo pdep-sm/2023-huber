@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "2023Huber:lib"
+
+    - path: "./test"
+      component: "2023Huber:test:2023Huber-test"
